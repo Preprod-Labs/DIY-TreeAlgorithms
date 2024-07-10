@@ -43,4 +43,4 @@ Mock data for learning purposes with features: Customer ID, Age, Annual Income, 
 ## Steps to Run
 
 1. Install the necessary packages: `pip install -r requirements.txt`
-2. Run the Streamlit web application: `app.py`
+2. Run the Streamlit web application: `streamlit run Code/app.py`
